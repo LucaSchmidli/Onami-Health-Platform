@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onami Health Platform", "Onami Health Platform\Onami Health Platform.csproj", "{ECA11E07-0A48-4072-87FC-85C5F768272C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA11E07-0A48-4072-87FC-85C5F768272C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA11E07-0A48-4072-87FC-85C5F768272C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA11E07-0A48-4072-87FC-85C5F768272C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA11E07-0A48-4072-87FC-85C5F768272C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB38BDEC-7D90-498A-B5C5-972B288DBED4}
+	EndGlobalSection
+EndGlobal
